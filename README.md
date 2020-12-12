@@ -9,6 +9,7 @@ python waybackparse.py <domain>
 # Eg:
 
 python waybackparse.py vulnweb.com
+
 python waybackparse.py bugcrowd.com
 
 # Requirements
