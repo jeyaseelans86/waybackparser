@@ -4,7 +4,7 @@ Tool To Get URLs of the given Domain from archive.org and sort the URLS accordin
 
 # Usage
 
-python waybackparse.py <domain>
+python waybackparse.py \<domain\>
 
 # Eg:
 
