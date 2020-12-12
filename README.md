@@ -1,4 +1,4 @@
-# waybackparser
+# Waybackparser
 
 Tool To Get URLs of the given Domain from archive.org and sort the URLS according to their Extensions
 
