@@ -2,16 +2,16 @@
 
 Tool To Get URLs of the given Domain from archive.org and sort the URLS according to their Extensions
 
-#Usage
+# Usage
 
-python waybackparser.py <domain>
+python waybackparse.py <domain>
 
-#Eg:
+# Eg:
 
-python waybackparser.py vulnweb.com
-python waybackparser.py bugcrowd.com
+python waybackparse.py vulnweb.com
+python waybackparse.py bugcrowd.com
 
-#Requirements
+# Requirements
 
 To Install All the Dependencies use the command 
 
